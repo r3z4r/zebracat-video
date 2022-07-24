@@ -1,12 +1,10 @@
-# Remotion video
+# Zebracat video
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
+This project used [Remotion](https://www.remotion.dev/) to create React videos
 
-Welcome to your Remotion project!
+## Soundtrack link
+
+https://taketones.com/track/dance-with-somebody
 
 ## Commands
 
@@ -34,18 +32,18 @@ npm run build
 npm run upgrade
 ```
 
-## Docs
+## Input data
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+All assets are in public folder
 
-## Help
+**config file**
 
-We provide help [on our Discord server](https://discord.gg/6VzzNDwUwV).
+config.js file used for basic configuration like Text, Colors, Fonts etc
 
-## Issues
+**footage**
 
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+path to videos
 
-## License
+**soundtrack**
 
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+path to background audio
